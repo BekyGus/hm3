@@ -1,0 +1,48 @@
+.nav{
+    background: grey;
+    width: 100%;
+    height: 100px;
+    float: left;
+    display: flex;
+}
+
+.logo{
+    background: yellow;
+    width: 100%;
+    min-height: 100px;
+    float: left;
+}
+.menu1{
+    background: blue;
+    width: 100%;
+    min-height: 100px;
+    float: left;
+}
+
+.menu2{
+    background: green;
+    width: 100%;
+    min-height: 100px;
+    float: left;
+}
+
+.purplefon{
+    position: relative;
+}
+.purplefon img{
+    position:absolute;
+    left: 170px;
+    top: 20px;
+}
+.fon{
+position: relative;
+}
+.fon img{
+    position: absolute;
+    left: 180px;
+    top: 30px;
+}
+
+.btn-group{
+    
+}
